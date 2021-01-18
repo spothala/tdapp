@@ -1,4 +1,4 @@
-module github.cm/spothala/tdapp
+module github.com/spothala/tdapp
 
 go 1.15
 
